@@ -1,8 +1,7 @@
-# Week 1 - Importing Datasets
+# Week 1 - Python Basics
 
 **Key Concepts**
 
-* Understanding the Data
-* Importing and Exporting Data in Python
-* Getting Started Analyzing Data in Python
-* Python Packages for Data Science
+* Demonstrate an understanding of types in python by converting/casting data types: strings, floats, integers.
+* Interpret variables and solve expressions by applying mathematical operations.
+* Describe how to manipulate strings by using a variety of methods and operations.
