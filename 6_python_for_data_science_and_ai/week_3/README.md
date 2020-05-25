@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis - Week 3
 
 **Key Concepts**
 
