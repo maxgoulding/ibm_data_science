@@ -1,6 +1,6 @@
-# Data Wrangling
+# Data Wrangling - Week 1
 
-## Key Concepts
+**Key Concepts**
 
 * Identify and Handle Missing Values
 * Data Formatting
