@@ -2,5 +2,5 @@
 
 **Key Concepts**
 
-* To underestand different types of clustering algorithms.
-* To apply clustering on different types of datasests.
+* Underestand different types of clustering algorithms.
+* Apply clustering on different types of datasests.
