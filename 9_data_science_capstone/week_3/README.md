@@ -1,8 +1,8 @@
-# Week 3 - Neighborhood Segmentation and Clustering
+# Week 4 - The Battle of Neighborhoods
 
 **Key Concepts**
 
-* Hone your communication skills by documenting your work and submitting a full project report and a presentation or a blog post
-* Decide what is the suitable algorithm for the capstone project
-* Learn how to deal with missing attributes' values and imbalanced data .
-* Learn about CRISP DM framework for machine Learning
+* Define a problem for your capstone project.
+* Finding the data that you will use for the capstone project.
+* Carry out the remaining work to complete the capstone project.
+* Submit a link to your project notebook and a complete project report.
